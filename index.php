@@ -9,7 +9,7 @@
 </head>
 
 <body align="center" class="fundal">
-    <header class="header">
+    <header class="header"> 
         <h1 class="titlu">Media Digitala</h1>
         <a href="https://www.facebook.com/dmc.usv/" target="_blank"><img width="30" height="30" id="fb" src="media/fb.png" alt="logo"></a>
         <a href="https://www.instagram.com/dmc.usv/" target="_blank"><img width="30" height="30" id="insta" src="media/insta.png" alt="logo"></a>
