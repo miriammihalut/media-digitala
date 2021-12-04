@@ -1,0 +1,122 @@
+.fundal {
+    background-color: rgb(211, 208, 208);
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+
+.titlu {
+    font-family: Lucida Handwriting;
+    font-size: 50px;
+    margin-bottom: 2px;
+}
+
+.header {
+    padding: 5px;
+}
+
+#user {
+    margin-right: 50px;
+}
+
+.casete {
+    width: 330px;
+    size-adjust: auto;
+    padding: 20px;
+    cursor: pointer;
+    box-shadow: 6px 6px 5px;
+    -webkit-box-shadow: 6px 6px 5px #999;
+    -moz-box-shadow: 6px 6px 5px #999;
+    font-weight: bold;
+    font-family: papyrus;
+    background: gray;
+    color: #000;
+    border-radius: 10px;
+    border: 1px solid #999;
+    font-size: 150%;
+}
+
+.contact {
+    font-family: papyrus;
+    font-size: 50px;
+    height: 50px;
+    width: 40px;
+}
+
+#move {
+    font-size: 40px;
+    font-family: Lucida Handwriting;
+}
+
+.imagini {
+    font-family: papyrus;
+    font-size: 40px;
+}
+
+.cursuri {
+    border: 1px solid #000;
+    background-color: rgb(201, 201, 201);
+    font-size: 30px;
+}
+
+.poza {
+    width: 435px;
+    height: 350px;
+}
+
+.contact {
+    font-family: papyrus;
+    font-size: 50px;
+    height: 50px;
+    width: 40px;
+}
+
+.date{
+    margin-left: 50px;
+    font-family: papyrus;
+}
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 344px;
+    width: 445px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 344px;
+    width: 445px;
+}
+
+.intrebari {
+    font-family: papyrus;
+    margin-left: 10px;
+}
+
+.footer1 {
+    font-size: 20px;
+    margin: auto;
+    margin-left:5px;
+    margin-right:5px;
+    padding: 10px;
+    top: 0px;
+    margin: 0;
+    background-color: rgb(163, 160, 160);
+    color: rgb(201, 197, 197);
+
+}
+
+.footer {
+    color: rgb(173, 172, 172);
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom: 0px;
+    padding: 10px;
+    top: 0px;
+    margin: 0;
+    background-color: gray;
+
+}
